@@ -1,0 +1,16 @@
+Type of User,Craigslist Experience,Location Change - San Diego,Navigation to Politics Page,Navigation to Events Page,Location Change - Santa Barbara,BMW Search,Most Difficult Task,User Feedback
+super user,sometimes,action-based slip,navigation filters,events calendar,sub-optimal success,action-based slip,location change,intuitive
+sufficiant user,never,sub-optimal success ,knowledge-based mistake,events calendar,sub-optimal success,memory-lapse mistake,navigation,unintuitive
+sufficiant user,sometimes,sub-optimal success ,search bar,events calendar,memory-lapse slip,optimal success,navigation,intuitive
+moderate user,sometimes,sub-optimal success ,search bar,action-based slip,action-based slip,rule-based mistake,location change,unintuitive
+super user,frequently,memory-lapse slip,search bar,events calendar,action-based slip,action-based slip,navigation,unintuitive
+sufficiant user,sometimes,action-based slip,action-based mistake,events calendar,sub-optimal success,action-based slip,navigation,unintuitive
+super user,sometimes,action-based slip,navigation filters,action-based slip,sub-optimal success,optimal success,navigation,intuitive
+super user,sometimes,sub-optimal success ,navigation filters,events calendar,sub-optimal success,rule-based mistake,location change,unintuitive
+super user,frequently,action-based slip,navigation filters,events calendar,memory-lapse slip,action-based slip,location change,intuitive
+sufficiant user,never,optimal success,action-based mistake,events calendar,optimal succes,rule-based mistake,navigation,unintuitive
+moderate user,frequently,action-based slip,knowledge-based mistake,events calendar,optimal succes,action-based slip,navigation,unintuitive
+sufficiant user,never,knowledge-based mistake,search bar,events calendar,optimal succes,optimal success,location change,unintuitive
+sufficiant user,never,knowledge-based mistake,action-based mistake,events calendar,sub-optimal success,optimal success,navigation,intuitive
+sufficiant user,sometimes,action-based slip,knowledge-based mistake,events calendar,sub-optimal success,action-based slip,navigation,unintuitive
+super user,never,knowledge-based mistake,search bar,action-based slip,sub-optimal success,optimal success,location change,unintuitive
